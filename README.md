@@ -1,2 +1,2 @@
 # ME541-ParetoFrontier
-Pareto Frontier Calculations
+Pareto Frontier Calculations (Homework 2)
